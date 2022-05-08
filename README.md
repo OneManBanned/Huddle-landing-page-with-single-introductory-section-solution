@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-solution-SyggddHL5](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-solution-SyggddHL5)
+- Live Site URL: [https://onemanbanned.github.io/Huddle-landing-page-with-single-introductory-section-solution/](https://onemanbanned.github.io/Huddle-landing-page-with-single-introductory-section-solution/)
 
 ### Built with
 
